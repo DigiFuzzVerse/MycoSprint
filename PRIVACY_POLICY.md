@@ -166,7 +166,7 @@ Updates will be published with a new "Effective Date."
 For privacy inquiries or GDPR requests:
 
 **Developer:** Orestis Spyrou  
-**Email:** [your email]  
+**Email:** digifuzzverse@gmail.com  
 **Location:** Wageningen, Netherlands
 
 ---
