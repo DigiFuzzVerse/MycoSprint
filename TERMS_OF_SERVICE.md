@@ -2,7 +2,7 @@
 
 **Last Updated: June 2026**
 
-These Terms of Service ("Terms") govern your use of MycoSprint MR ("the App", "we", "our", "us") on Meta Quest devices.
+These Terms of Service ("Terms") govern your use of MycoSprint XR ("the App", "we", "our", "us") on Meta Quest devices.
 By installing or using the App, you agree to these Terms.
 
 If you do not agree, you must uninstall and discontinue use of the App.
